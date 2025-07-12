@@ -1,16 +1,12 @@
 ## Hi there 👋
-
-<!--
-**ZothyCloud/ZothyCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                            ███████╗ ██████╗ ████████╗██╗  ██╗██╗   ██╗ ██████╗██╗      ██████╗ ██╗   ██╗██████╗ 
+╚══███╔╝██╔═══██╗╚══██╔══╝██║  ██║╚██╗ ██╔╝██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗
+  ███╔╝ ██║   ██║   ██║   ███████║ ╚████╔╝ ██║     ██║     ██║   ██║██║   ██║██║  ██║
+ ███╔╝  ██║   ██║   ██║   ██╔══██║  ╚██╔╝  ██║     ██║     ██║   ██║██║   ██║██║  ██║
+███████╗╚██████╔╝   ██║   ██║  ██║   ██║   ╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝
+╚══════╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝   ╚═╝    ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ 
+                                                                                     
+## ZothyCloud Is A Minecraft Server Hosting Which Offers Free Minecraft Servers And Also Paid Minecraft Servers!🎉
+## ZothyCloud Have Many Features Like Good Aperance💖, In-Built Plugin Installer🔌 Means Do not Need To Go Anywhere Just Install Any Plugin Of Any Server Type Like Paper,Spigot etc In Just One Click From Your Server Panel!✨
+## Boost Your Minecraft Server Journey Today With Good Ping And No Lag!🤩
+Discord Link:- discord.gg/zothycloud
